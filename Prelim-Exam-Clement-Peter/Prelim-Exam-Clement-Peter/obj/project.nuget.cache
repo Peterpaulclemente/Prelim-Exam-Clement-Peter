@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d0sQvMW9kk/klD8oVA7Nal9UAb0TeFPlPjsboBwpgKMeZ0ICw4DLoPye1tBm3WUn8znoG64IBvQc904SCMAtyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cleme\\source\\repos\\Prelim-Exam-Clement-Peter\\New folder\\Prelim-Exam-Clement-Peter\\Prelim-Exam-Clement-Peter\\Prelim-Exam-Clement-Peter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cleme\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
